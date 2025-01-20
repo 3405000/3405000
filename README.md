@@ -1,17 +1,21 @@
-# Hello there! 👋
+# Hi there, I’m Jaeeun Oh.
+I am a university student majoring in UX design and also a programmer.
 
-Welcome to my GitHub profile! I’m a passionate developer who loves creating meaningful and user-friendly apps.
 
-## 📱 My Apps on the App Store
+### Released iOS Apps
 
-### 1. Bookbbang(책빵) 📚🍞  
-Turn your favorite book quotes into delicious bread! Record the quotes you love, and watch as unique bread is baked. Collect different types of bread and bundle them into clips. Every day, I’ll recommend a new bread for you!  
+**Team Projects** 
+* <a href="https://apps.apple.com/kr/app/%EC%B1%85%EB%B9%B5/id6736903130?l=en-GB">Bookbbang (책빵)</a>
 
-[![Download on the App Store](https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/kr/app/%EC%B1%85%EB%B9%B5/id6736903130?l=en-GB)
+**Personal Projects** 
+* <a href="https://apps.apple.com/kr/app/knittap/id6739244038?l=en-GB">Knittap (닛탭)</a>
 
----
+##
 
-### 2. Knittap(닛탭) 🧶  
-Easily keep track of your knitting row counts with this handy app! It offers various counter types to suit your knitting needs.  
+### Education
+* Apple Developer Academy @ POSTECH 3th (2024.03.04 - 2024.12.13)
+* Hongik University (2021.03.01 - )
 
-[![Download on the App Store](https://img.shields.io/badge/App%20Store-Download-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/kr/app/knittap/id6739244038?l=en-GB)
+### Certification
+* SQL Developer Certification (2023.07.07)
+
